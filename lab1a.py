@@ -6,5 +6,4 @@
 # Author : Chung Yin Choi
 # Date   : May 8, 2025
 
-
 print('Hello world')
